@@ -1,0 +1,15 @@
+node_modules
+.aider*
+
+# Test / build outputs
+coverage
+dist
+*.tsbuildinfo
+
+# Editor / OS
+.DS_Store
+.vscode
+.idea
+
+# Local AiderDesk extension cache
+config.json
